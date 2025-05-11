@@ -1,6 +1,6 @@
 <h1 align="left">Lucas Suyama</h1>
 
-Tenho 23 anos, sou do interior de São Paulo.
+Tenho 24 anos, sou do interior de São Paulo.
 
 <div display="inline-block">
  <p align="left">💻 Estou cursando o último semestre de Sistemas de Informação na Unoeste/FIPP;</p>
