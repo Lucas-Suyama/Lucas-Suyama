@@ -3,8 +3,8 @@
 Tenho 24 anos, sou do interior de São Paulo.
 
 <div display="inline-block">
- <p align="left">💻 Estou cursando o último semestre de Sistemas de Informação na Unoeste/FIPP;</p>
- <p align="left">📚 Tenho trabalhado e estudado com React Native e Typescript, mas também gosto de me aventurar em Oracle Cloud Infrastructure (OCI), PHP e Laravel nas horas vagas;</p>
+ <p align="left">💻 Formado em Bacharelado Sistemas de Informação na Unoeste/FIPP;</p>
+ <p align="left">📚 Tenho trabalhado e estudado com React/Next e Typescript, mas também gosto de me aventurar em Oracle Cloud Infrastructure (OCI), PHP e Laravel nas horas vagas;</p>
 </div>
 
 
